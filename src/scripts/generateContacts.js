@@ -11,4 +11,4 @@ const generateContacts = async (number) => {
   await writeContacts(newContactList);
 };
 
-generateContacts(5);
+generateContacts(3);
